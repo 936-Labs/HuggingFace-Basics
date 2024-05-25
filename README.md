@@ -1,6 +1,8 @@
-# Navigating Huggingface
+# HuggingFace Basics
 
-This dir will include the important aspects (at least what I ran into).
+This readme will include the important aspects (at least what I ran into).
+
+> **Note** this readme is constantly being updated. feel free to add to this (PR)
 
 <br/>
 
